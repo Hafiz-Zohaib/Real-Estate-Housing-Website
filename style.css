@@ -1,0 +1,60 @@
+.navbar-brand{
+    color: white;
+    font-size: 30px;
+}
+.nav-link{
+    color: white;
+}
+.bg-image {
+  background: rgba(0, 0, 0, 0.637) url("https://wallpapers.com/images/high/real-estate-with-fireplace-zu7cslfhvbjouqs5.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-blend-mode: darken;
+        height: 700px;
+}
+.item{
+    color: white;
+    padding-top: 150px;
+    font-size: 30px;
+    margin-left: 80px;
+
+   }
+   .category{
+    border-radius: 20px;
+    padding: 7px;
+   }
+   .header-text h2{
+    font-size: 80px;
+   }
+   .img-fluid{
+    height: 490px;
+    width: 400px;
+   }
+   .third-section{
+    height: 900px;
+    background: rgba(0, 0, 0, 0.637) url("https://wallpapers.com/images/high/real-estate-with-fireplace-zu7cslfhvbjouqs5.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-blend-mode: soft-light;
+   }
+   .five-section{
+    background: rgba(0, 0, 0, 0.637) url("https://wallpapers.com/images/high/real-estate-with-fireplace-zu7cslfhvbjouqs5.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-blend-mode: darken;
+   }
+   .info-table{
+    font-size: 20px;
+   }
+   .item-phone h6{
+    font-size: 30px;
+    color: white;
+    width: 300px;
+    
+   }
+   .item-email h6{
+    font-size: 30px;
+    color: white;
+    width: 300px;
+    padding-left: 90px;
+   }
